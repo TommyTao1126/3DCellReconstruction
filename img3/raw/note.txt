@@ -1,0 +1,6 @@
+cellpose parameter:
+1: diameter = 60 upper = 95
+2: upper = 35
+4: diameter = 80, upper = 40
+5: d = 75
+10: d0
